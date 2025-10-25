@@ -1,8 +1,10 @@
 # Hi, I'm Juan David ! 👋
 ## 🚀 About Me
-Soy ingeniero en mecatronica, enfocado en el analisis de datos , desarrollo de ML e IA
+Ingeniero mecatrónico enfocado en el desarrollo de soluciones basadas en datos y automatización de procesos.implementé sistemas ETL y herramientas de Power Platform que mejoraron la trazabilidad y analítica en tiempo real. Competente en Python, SQL y Machine Learning, Busco posiciones en análisis de datos, automatizacion y ciencia de datos.
 
-I'm a Mechatronics Engineer, focused in data analisis, ML and AI development 
+Mechatronics Engineer focused on data-driven automation and software development. I implemented ETL pipelines and Power Platform solutions to enhance maintenance process traceability and real-time analytics. Skilled in Python, SQL, and Machine Learning, I seek roles that combine data analysis, automation, and Data Science.
+
+
 ## 🛠 Skills
 Python| SQL| power BI| Machine Learning | Ciencia de Datos | Inteligencia de negocios | Inteligencia Artificial | Programación | Mechatronics Engineer |
 
